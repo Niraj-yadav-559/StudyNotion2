@@ -167,7 +167,7 @@ const Home = () => {
 
                     <div className='flex flex-col gap-10 w-[40%] items-start'>
                     <div className='text-[16px]'>
-                    The modern StudyNotion is the dictates its own terms. Today, to be a competitive specialist requires more than professional Skills..
+                    The modern StudyNotion is the dictates its own terms. Today, to be a competitive specialist requires more than professional skills.
                     </div>
                     <CTAButton active={true} linkto={"/signup"}>
                         <div>
@@ -198,6 +198,7 @@ const Home = () => {
 
             <h2 className='text-center text-4xl font-semobold mt-10'>review from Other Learners</h2>
             {/* Review Slider here */}
+            
       </div>
 
 
