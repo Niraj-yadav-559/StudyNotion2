@@ -39,7 +39,7 @@ export default function DeleteAccount() {
             className="w-fit cursor-pointer italic bg-yellow-25"
             onClick={handleDeleteAccount}
           >
-            I want to delete my account.
+            I want to delete my Account.
           </button>
         </div>
       </div>
